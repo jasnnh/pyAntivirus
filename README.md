@@ -17,4 +17,4 @@ virusDB.json:
 
 this is a small database of compiled virus signatures and antivirus.py will loop through all of them to verify the signatures if the file is infected.
 
-![Screenshot](https://github.com/jasnnh/MultiLanNetworkOPNsense/blob/main/start.PNG)
+![Screenshot](https://github.com/jasnnh/pyAntivirus/blob/main/image.png)
