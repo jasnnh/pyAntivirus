@@ -13,7 +13,8 @@ testVirus.txt:
 
 this is the example virus file that I am using to identify as an infected file it's using the "EICAR-STANDARD-ANTIVIRUS-TEST-FILE" signature.
 
-virusDB.json:
+<b>virusDB.json:</b>
+
 
 this is a small database of compiled virus signatures and antivirus.py will loop through all of them to verify the signatures if the file is infected.
 
